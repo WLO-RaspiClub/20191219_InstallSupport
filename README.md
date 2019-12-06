@@ -1,7 +1,7 @@
-<pre>
-「WLOラズパイ倶楽部+α Raspberry Pi 4B国内発売記念 インストールサポート(初心者向け)」
+## WLOラズパイ倶楽部+α Raspberry Pi 4B国内発売記念 インストールサポート(初心者向け)
+お申込みは https://raspiplus191219.peatix.com/ からお願いします。
 
-●詳細
+<pre>●詳細
 WLOラズパイ倶楽部+αは、RaspberryPiやArduinoなどを使った 
 趣味の電子工作に 興味ある有志の集まりです。
 
